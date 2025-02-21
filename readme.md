@@ -1,8 +1,10 @@
-Tạo venv:
+# Warp UI for linux
+
+Các bước cài đặt:
 <code> 
 python3 -m venv venv  # Tạo venv mới
 source venv/bin/activate  # Kích hoạt venv
-pip install -r requirements.txt  # Cài đặt lại các package
+python3 install.py
 </code>
 
 Chạy code: sh ./run.sh
